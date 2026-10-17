@@ -33,6 +33,8 @@ Animated single-page portfolio for **ZN DEVELOPER** (CEO **Zain Hanif**) — a f
 ## Verification
 - Full-page rendered check via headless Chrome (puppeteer): **0 console errors, 0 broken images**
 - Desktop, mobile (414px) and per-section screenshots captured
+- **SEO Doctor live audit: 90/100** — 0 critical, 0 high, 0 medium, 1 low (inline CSS, by design as part of the zero-dependency single-file build)
+- Domain root (zainhanif-3.github.io) serves robots.txt + sitemap.xml + brand redirect; `og:image`, sitemap, robots all verified HTTP 200
 
 ## Contact
 - WhatsApp: **+92 321 4026676**
